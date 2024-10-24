@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    background: rgb(167,122,198);
+    background: linear-gradient(90deg, rgba(167,122,198,1) 7%, rgba(252,176,69,1) 86%);
+    
+    
+}
+.head-main{
+    margin-top: 40px;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+.right{
+    width: 50%;
+    float: left;
+}
+.tag{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 15px;
+    margin-left: 50px;
+}
+.tagin{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 615px;
+    
+}
+
+
+.reg{
+    width: 100px;
+    height: 35px;
+    background: white;
+    color: black;
+    font-size: 18px;
+    border-radius: 100px;
+    margin-left: 58px;
+}
+.box1{
+    width: 400px;
+    height: 50px;
+    margin-left: 301px;
+    border: 1px solid;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.box2{
+    width: 400px;
+    height: 50px;
+    margin-left: 301px;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.for{
+    margin-left: 596px;
+    text-decoration: none;
+    color: black;
+}
+.in{
+    width: 400px;
+    height: 50px;
+    background: white;
+    color: black;
+    margin-left: 307px;
+    border-radius: 10px;
+    margin-top: 49px;
+}
+.right-side{
+    margin-top: 164px;
+}
+.hello{
+    margin-left: 453px;
+    font-size: 30px;
+    
+}
+.wel{
+    margin-left: 415px;
+    font-size: 30px;
+}.image{
+    width: 555px;
+    height: 555px;
+    margin-left: 79px;
+    margin-top: 100px;
+}
+.D{
+    margin-left: 440px;
+}
+.create{
+    margin-left: 470px;
+    text-decoration: none;
+    color: blue;
+
+}
